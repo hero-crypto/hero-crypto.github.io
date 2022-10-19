@@ -1,5 +1,5 @@
 /*!
- * my-metadata v1.0.0 
+ * hero v1.0.0 
  * Copyright 2017-present, hero.
  * All rights reserved.
  * Author: hero
